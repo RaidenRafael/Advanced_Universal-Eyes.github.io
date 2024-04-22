@@ -4,6 +4,10 @@ The baseplate of this app uses OpenStreet Maps (https://www.openstreetmap.org/ab
 
 This Is A Personal Project Made By : Raiden R. (Rafael) Kaslana, And This Project Was Still In Progress
 
+This Project Was My Own Idea And Inspiration To Other Separate Tools
+
+============================================================================
+
 The Advanced Universal Eyes Consist Of The Following Tools
 
 1.Weather Viewing
