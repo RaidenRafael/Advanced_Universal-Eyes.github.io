@@ -1,3 +1,6 @@
+[Project Status : HALTED - Busy Out Of Time]
+
+
 Advanced Universal Eyes, A Browser Baised Application (Or WebApp For Short)
 
 The baseplate of this app uses OpenStreet Maps (https://www.openstreetmap.org/about) And Other API Library That Will Be Implimented
