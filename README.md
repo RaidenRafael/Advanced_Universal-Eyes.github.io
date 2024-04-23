@@ -1,5 +1,5 @@
 ============================================================================
-[Project Status : HALTED - Busy Out Of Time]
+Project Status : HALTED - Busy Out Of Time
 ============================================================================
 
 Advanced Universal Eyes, A Browser Baised Application (Or WebApp For Short)
